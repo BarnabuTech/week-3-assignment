@@ -8,3 +8,4 @@ This is a simple proggram that shows the control flow and functions in python.
 - Using the calculate_discount function, prompt the user to enter the original price of an item and the discount percentage. Print the final price after applying the discount, or if no discount was applied, print the original price.
 
 ## Example Ouput
+![image](https://github.com/user-attachments/assets/146e3874-0f9f-448a-8b75-c2ff622892cc)
